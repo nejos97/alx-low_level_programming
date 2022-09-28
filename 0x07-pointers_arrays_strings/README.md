@@ -1,0 +1,1 @@
+0x07. C - task pointers, array and string
